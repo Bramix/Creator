@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Creator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Creator_jar</output-path>
+    <root id="archive" name="Creator.jar">
+      <element id="module-output" name="Creator" />
+      <element id="extracted-dir" path="$USER_HOME$/Рабочий стол/gson-2.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
