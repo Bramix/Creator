@@ -1,4 +1,5 @@
 # About
-This program is a part of me Test project./n
+This program is a part of me Test project.
 It is an opportunity to implement tasks for testing knowledge of students.
-The web-site of project : https://sites.google.com/view/metest-team/.
+The program supports a number of types of questions. 
+Read more : https://sites.google.com/view/metest-team/.
